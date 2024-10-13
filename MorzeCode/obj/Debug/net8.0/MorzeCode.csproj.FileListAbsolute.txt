@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\bin\Debug\net8.0\MorzeCode.exe
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\bin\Debug\net8.0\MorzeCode.deps.json
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\bin\Debug\net8.0\MorzeCode.runtimeconfig.json
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\bin\Debug\net8.0\MorzeCode.dll
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\bin\Debug\net8.0\MorzeCode.pdb
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.AssemblyInfo.cs
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.dll
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\refint\MorzeCode.dll
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.pdb
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.genruntimeconfig.cache
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\ref\MorzeCode.dll
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\bin\Debug\net8.0\morze.txt

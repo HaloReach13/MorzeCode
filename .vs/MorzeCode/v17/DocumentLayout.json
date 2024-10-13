@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\MorzeCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DDD332-50E6-4507-95AD-72D3B68B4B75}|MorzeCode\\MorzeCode.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\source\\repos\\morzecode\\morzecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DDD332-50E6-4507-95AD-72D3B68B4B75}|MorzeCode\\MorzeCode.csproj|solutionrelative:morzecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DDD332-50E6-4507-95AD-72D3B68B4B75}|MorzeCode\\MorzeCode.csproj|c:\\users\\felhaszn\u00E1l\u00F3\\source\\repos\\morzecode\\morzecode\\morzecodeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DDD332-50E6-4507-95AD-72D3B68B4B75}|MorzeCode\\MorzeCode.csproj|solutionrelative:morzecode\\morzecodeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MorzeCodeClass.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\MorzeCode\\MorzeCode\\MorzeCodeClass.cs",
+              "RelativeDocumentMoniker": "MorzeCode\\MorzeCodeClass.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\MorzeCode\\MorzeCode\\MorzeCodeClass.cs",
+              "RelativeToolTip": "MorzeCode\\MorzeCodeClass.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:34:44.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\MorzeCode\\MorzeCode\\Program.cs",
+              "RelativeDocumentMoniker": "MorzeCode\\Program.cs",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\MorzeCode\\MorzeCode\\Program.cs",
+              "RelativeToolTip": "MorzeCode\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:12:47.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
