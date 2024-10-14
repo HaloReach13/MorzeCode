@@ -4,7 +4,7 @@ using System.Text;
 
 public class MorzeCodeClass
 {
-    public Dictionary<char, string> morzeToText;
+    public Dictionary<char, string> morzeToText { get; set; } 
 
     public string shortSymbol;
 
@@ -28,6 +28,14 @@ public class MorzeCodeClass
         }
     }
 
+    public void SymbolChanges()
+    {
+        foreach (var item in morzeToText)
+        {
+            morzeToText[item.Key] = item.Value.Replace(".", shortSymbol).Replace("-", longSymbol);
+        }
+    }
+
     public string Decode(string morseCode)
     {
         StringBuilder convertedMessage = new StringBuilder();
@@ -36,6 +44,7 @@ public class MorzeCodeClass
         {
             if (morzeToText.ContainsValue(item))
             {
+                
                 convertedMessage.Append(morzeToText.FirstOrDefault(s => s.Value == item).Key);
             }
             else

@@ -13,3 +13,4 @@ C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCo
 C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.genruntimeconfig.cache
 C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\ref\MorzeCode.dll
 C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\bin\Debug\net8.0\morze.txt
+C:\Users\Felhasználó\source\repos\MorzeCode\MorzeCode\obj\Debug\net8.0\MorzeCode.sourcelink.json
